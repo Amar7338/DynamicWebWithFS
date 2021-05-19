@@ -1,1 +1,1 @@
-# DynamicWebWithFS
+# MernDeveloperPractiseProject

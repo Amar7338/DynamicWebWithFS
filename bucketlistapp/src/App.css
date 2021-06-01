@@ -1,0 +1,27 @@
+.BucketContainer{
+  width: 30%;
+  height:30px;
+  margin:auto;
+  background-image: linear-gradient(rgb(216, 39, 39),rgb(35, 35, 187));
+  color: rgb(8, 233, 8);
+  text-align: center;
+}
+.Container{
+  width: 100%;
+  height:650px;
+  margin:auto;
+  background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url("https://play-lh.googleusercontent.com/WYaF3Pc_SLYXbSJFAHoDoS_6ZqoAFPyc_upJDFz1RCi4jxPsD16YSIVcUPmMsXmlfg=rw");
+  text-align: center;
+  font-size: 20px;
+  position: absolute;
+}
+h1{
+  color: whitesmoke;
+}
+.CancelButton{
+  color:red;
+  border:2px solid red;
+  margin: auto;
+  padding: 3px;
+  float:right;
+}
